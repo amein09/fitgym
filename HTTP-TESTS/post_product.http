@@ -1,0 +1,9 @@
+POST http://localhost:7000/product/post
+
+Content-Type: application/json
+{
+"name": "iphone",
+"description": "new phone",
+"price":40000,
+"image_url":"snijsh",
+}
